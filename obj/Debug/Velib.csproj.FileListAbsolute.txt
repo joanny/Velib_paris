@@ -1,0 +1,13 @@
+D:\C_\Velib\Velib\obj\Debug\Velib.frmSt.resources
+D:\C_\Velib\Velib\obj\Debug\Velib.Properties.Resources.resources
+D:\C_\Velib\Velib\obj\Debug\Velib.csproj.GenerateResource.Cache
+D:\C_\Velib\Velib\obj\Debug\Velib.csprojResolveAssemblyReference.cache
+D:\C_\Velib\Velib\bin\Debug\Velib.exe.config
+D:\C_\Velib\Velib\bin\Debug\Velib.exe
+D:\C_\Velib\Velib\bin\Debug\Velib.pdb
+D:\C_\Velib\Velib\obj\Debug\Velib.exe
+D:\C_\Velib\Velib\obj\Debug\Velib.pdb
+D:\C_\Velib\Velib\bin\Debug\Velib.exe.manifest
+D:\C_\Velib\Velib\bin\Debug\Velib.application
+D:\C_\Velib\Velib\obj\Debug\Velib.exe.manifest
+D:\C_\Velib\Velib\obj\Debug\Velib.application
